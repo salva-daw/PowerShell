@@ -1,1 +1,57 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+}
 
+.container {
+    width: 90%;
+    max-width: 1200px;
+    margin: 20px auto;
+}
+
+.cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.card {
+    width: 23%;
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin-bottom: 20px;
+    box-sizing: border-box;
+    text-align: center;
+    /* Centrar el contenido de la tarjeta */
+}
+
+.card img {
+    max-width: 100%;
+    /* La imagen no exceda el ancho de la tarjeta */
+    height: 50px;
+    margin-bottom: 10px;
+    /* Espacio entre la imagen y el título */
+}
+
+.card h2 {
+    margin-top: 0;
+}
+
+.card:hover {
+    background-color: #e0f2fe;
+    /* Color azul claro al pasar el ratón */
+}
+
+/* Estilos responsivos */
+@media (max-width: 900px) {
+    .card {
+        width: 48%;
+    }
+}
+
+@media (max-width: 600px) {
+    .card {
+        width: 100%;
+    }
+}
