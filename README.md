@@ -21,3 +21,7 @@ Avisos en github
 > [!CAUTION]
 > Esto es caution
 > linea dos
+
+<div style="background-color: #ffe0e0; padding: 10px; border-radius: 5px; border-left: 5px solid red;">
+    **IMPORTANTE:** Esto es un mensaje importante con fondo rojo claro.
+</div>
