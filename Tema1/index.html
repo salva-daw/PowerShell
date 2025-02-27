@@ -1,1 +1,7 @@
-
+<div id="contenidoDiv"></div>
+<script>
+  alert("Cargando Tema..")
+  contenidoDiv=document.getElementById("contenidoDiv")
+  fetch("README.MD").then(response=>response.text())
+                    .then(markdown=>contenidoDiv.innerHTML = marked.parse(markdown)
+</script>
