@@ -2,6 +2,7 @@ Avisos en github
 
 > [!WARNING]
 > otro warning
+> con otra linea
 
 > [!NOTE]
 > Esto es una nota
