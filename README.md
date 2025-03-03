@@ -23,21 +23,10 @@ Avisos en github
 > linea dos
 
 <div style="background-color: #ffe0e0; padding: 10px; border-radius: 5px; border-left: 5px solid red;">
-    > [!IMPORTANT]
-    > Esto es un mensaje importante con fondo rojo claro.
+    texto de prueba
+    en el div
 </div>
 
-
-       @page { size: 21cm 29.7cm; margin-left: 3cm; margin-right: 3cm; margin-top: 2.5cm; margin-bottom: 2.5cm } p { line-height: 115%; text-align: left; orphans: 2; widows: 2; margin-bottom: 0.25cm; direction: ltr; background: transparent } a:link { color: #0563c1; text-decoration: underline } a:visited { color: #800080; text-decoration: underline }
-
-  
-  
-
-  
-  
-
-  
-  
 
 **DWC**
 
