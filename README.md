@@ -1,5 +1,17 @@
 Avisos en github
 
+<div style="background-color: #ffe6e6;">
+  Texto de prueba.
+</div>
+
+
+<div style="background-color: #ffe6e6b; padding: 10px; border: 10px solid #ff9999;">
+  ⚠️Advertencia: Este es un mensaje de advertencia.
+    <p>linea </p>
+    <p>otra linea </p>
+    <p>linea </p>
+</div>
+
 > [!WARNING]
 > otro warning
 
