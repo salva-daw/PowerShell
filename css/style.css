@@ -1,3 +1,11 @@
+ .aviso {
+     background-color: #ffe6e6b;
+     padding: 10px; 
+     border: 10px 
+     solid #ff9999;
+ }
+
+
 body {
     font-family: sans-serif;
     margin: 0;
